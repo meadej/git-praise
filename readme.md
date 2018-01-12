@@ -5,7 +5,8 @@ Tired of having such a negative connotation associated with git blame? Want to c
 ## Prerequisites and Running
 
 ```
-git version 2.0.0 +
-working bash shell
+- git version 2.0.0 +
+- bash shell
+- bruised ego from months of struggling to learn git conflict resolution tactics to no avail
 ```
-Simply download the included bash script and run it to install. 
+Simply download the included bash script and run it to install. Enjoy. 
