@@ -9,4 +9,6 @@ Tired of having such a negative connotation associated with git blame? Want to c
 - bash shell
 - bruised ego from months of struggling to learn git conflict resolution tactics to no avail
 ```
-Simply download the included bash script and run it to install. Enjoy. 
+Simply download the included bash script and run it to install. 
+
+/s
