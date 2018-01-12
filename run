@@ -1,0 +1,13 @@
+#!/bin/bash
+
+git --version > /dev/null
+GIT_IS_AVAILABLE=$?
+
+if [ $GIT_IS_AVAILABLE -eq 0 ]; then
+	git config --global alias.praise blame
+	echo "Successful alias creation."
+else
+	echo "Git not installed or not on path!"
+fi
+
+
